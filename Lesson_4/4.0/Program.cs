@@ -49,4 +49,4 @@ position++;
 int[] array = new int[100];
 FillArray(array);
 printArray(array); 
-/*
+*/
