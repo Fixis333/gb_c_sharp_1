@@ -6,3 +6,4 @@ int step = 1;
 for (int i = 1; i <= b; i++)
     step = step * a;
     Console.WriteLine($"Число {a} в степени {b} равно {step}");
+//

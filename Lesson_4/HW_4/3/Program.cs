@@ -21,4 +21,6 @@ int start = int.Parse(Console.ReadLine()!);
 int stop = int.Parse(Console.ReadLine()!);
 
 int[] mass = EightMass(num, start, stop);
-Print(mass);
+Print(mass);  
+
+//
